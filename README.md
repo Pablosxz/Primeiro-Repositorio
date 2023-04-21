@@ -1,2 +1,2 @@
-# Primeiro Repositorio
- Primeiro repositorio Git e GitHub
+# Primeiro Repositório
+ Primeiro repositorio do GitHub.
